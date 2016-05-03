@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#ef5350</color>
+    <color name="background2">#42A5F5</color>
+    <color name="background3">#FFA726</color>
+    <color name="analog_hands">#cccccc</color>
+</resources>

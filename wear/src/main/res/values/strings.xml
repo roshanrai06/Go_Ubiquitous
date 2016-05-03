@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sunshine Watch Face</string>
+    <string name="my_analog_name">Sunshine Analog</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>
